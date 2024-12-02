@@ -19,8 +19,7 @@ namespace Variables
             double playerMoney = 100;
             float playerHealth = 100f;
             float playerDamage = 5f;
-            float playerAttackSpeed = 1f;
-
+            float playerAttackSpeed = 1f;            
         }
     }
 }
