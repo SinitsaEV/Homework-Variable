@@ -21,7 +21,6 @@ namespace Variables
             float playerDamage = 5f;
             float playerAttackSpeed = 1f;
 
-            Console.Write(currentSpeed);
         }
     }
 }
